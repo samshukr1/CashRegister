@@ -1,0 +1,14 @@
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.csprojAssemblyReference.cache
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.csproj.CoreCompileInputs.cache
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.RazorAssemblyInfo.cache
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.RazorAssemblyInfo.cs
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.AssemblyInfoInputs.cache
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.AssemblyInfo.cs
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\bin\Debug\netcoreapp2.1\CashRegisterWebApi.deps.json
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\bin\Debug\netcoreapp2.1\CashRegisterWebApi.runtimeconfig.json
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\bin\Debug\netcoreapp2.1\CashRegisterWebApi.runtimeconfig.dev.json
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\bin\Debug\netcoreapp2.1\CashRegisterWebApi.dll
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\bin\Debug\netcoreapp2.1\CashRegisterWebApi.pdb
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.RazorTargetAssemblyInfo.cache
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.dll
+c:\users\samlocal\source\repos\CashRegisterWebApi\CashRegisterWebApi\obj\Debug\netcoreapp2.1\CashRegisterWebApi.pdb
